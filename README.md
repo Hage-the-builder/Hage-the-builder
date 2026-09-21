@@ -37,8 +37,8 @@ I am a hands-on designer, builder, and mathematical tutor transitioning traditio
 
 ## Teaching, Entrepreneurship, & Leadership
 
-*   **Paid Online Mathematics Tutor:** Run an independent tutoring business teaching Algebra 1, Algebra 2, and Geometry. Leveraging daily teaching to keep core algebraic logic, spatial proof fundamentals, and communication skills incredibly sharp.
-*   **Founder & President:** Community Student Book Club. Managing group logistics, selecting multi-genre reading tracks, and running collaborative discussions.
+*   **Paid Online Mathematics Tutor:** Run an independent tutoring business teaching Algebra 1, Algebra 2, and Geometry. Making use of my homeschool background to tutor other homeschoolers
+*   **Founder & President:** Community Student Book Club. Coordinating with the community center's board of trustees Managing group meetings, selecting reading tracks, and running collaborative discussions.
 
 ---
 
