@@ -1,4 +1,4 @@
-# Hi there, I'm Hage! 👋
+# Hi there, I'm Hage! 
 
 ### Prospective Math & Mechanical Engineering Double Major | Tufts University ED1 Applicant
 
