@@ -1,6 +1,6 @@
 # Hi there, I'm Hage! 
 
-### Prospective Math & Mechanical Engineering Double Major | Tufts University ED1 Applicant
+### Prospective Math & Mechanical Engineering Double Major | Boston University ED1 Applicant
 
 I am a hands-on designer, builder, and mathematical tutor transitioning traditional craftsmanship into digital engineering. I am currently doing an intensive  sprint to master computational logic and parametric 3D design, preparing myself to contribute to collaborative engineering teams, makerspaces, and research labs on day one.
 
