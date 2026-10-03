@@ -53,6 +53,6 @@ I am a hands-on designer, builder, and mathematical tutor transitioning traditio
 ---
 
 ### Application Status
-*   **Target Institution:** Tufts University (School of Engineering)
-*   **Application Cycle:** Early Decision I (ED1) — November 2, 2026
-*   **Campus Nodes of Interest:** Nolop Makerspace, Bray Precision Advanced Learning Labs, Tufts Math Department
+*   **Target Institution:** Boston University (School of Engineering)
+*   **Application Cycle:** Early Decision I (ED1) 
+*   **Campus Nodes of Interest:** EPIC Makerspace, Kilachand Honors College, Boston Math Department
