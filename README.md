@@ -40,7 +40,7 @@ I am a hands-on designer, builder, and mathematical tutor transitioning traditio
 *   **Paid Online Mathematics Tutor:** Run an independent tutoring business teaching Algebra 1, Algebra 2, and Geometry. Making use of my homeschool background to tutor other homeschoolers
 *   **Founder & President:** Community Student Book Club. Coordinating with the community center's board of trustees Managing group meetings, selecting reading tracks, and running collaborative discussions.
 
----
+
 
 ## Upcoming Engineering Roadmap (Fall 2026 – Summer 2027)
 
