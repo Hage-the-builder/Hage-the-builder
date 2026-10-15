@@ -45,7 +45,7 @@ I am a hands-on designer, builder, and mathematical tutor transitioning traditio
 ## Upcoming Engineering Roadmap (Fall 2026 – Summer 2027)
 
 *   **Fall 2026 (Current Sprint):** Executing an intensive deep-dive to build foundational technical competencies before college. Actively progressing through Harvard's **CS50P (Introduction to Programming with Python)** to master algorithmic data structures, and completing Onshape's official **CAD Basics Pathway** to learn multi-part parametric modeling and dynamic assemblies.
-*   **Spring 2027:** Transitioning into advanced **LaTeX typesetting** on Overleaf to learn how to translate mechanical systems and vector physics formulas into professional, publication-grade engineering documentation.
+*   **Spring 2027:** Transitioning into advanced **LaTeX typesetting** on Overleaf to learn how to translate mechanical systems and vector physics formulas into professional, publication-grade engineering documentation. Also Enrolling in **Chemistry 1** online through Southwest Tennessee Community College.
 *   **Summer 2027:** Enrolling in **Calculus 3 (Multivariable Calculus)** online through Southwest Tennessee Community College to master 3D vector fields, partial derivatives, and multiple integration paths.
 *   **Day 1 Target at Tufts:** Leveraging this verified, self-directed preparation to place out of introductory computing blocks, enroll directly in advanced tracks like **MATH 42 (Road to Higher Mathematics)** and **MATH 70 (Linear Algebra)** at the Joyce Cummings Center, and join the powertrain sub-assembly and telemetry tracks at the **Tufts Electric Racing** garage.
 
